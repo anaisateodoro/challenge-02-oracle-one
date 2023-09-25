@@ -22,17 +22,20 @@
 https://github.com/anaisateodoro/challenge-02-oracle-one/
 ```
 Após ter o repositório "forkado" para sua conta, verifica se a url da página é a do repositório da sua conta.
-
 <br>
 
 #### 🔹 Badge Exclusiva do Desafio 🏆
 
----
+<p align="center" >
+     <img width="400" heigth="400" src="https://github.com/anaisateodoro/challenge-02-oracle-one/assets/70113922/13a64847-e6f5-48ed-9120-54dd236e95d7">
+</p>
 
-<br>
+---
 
 ### Caso desejar, adicione o meu contato na sua rede de contatos do Linkedin! 🏁
 
 <br>
+<p align="center" >
     <a href="https://www.linkedin.com/in/anaisa-mayara-teodoro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
+</p>
 

@@ -18,15 +18,14 @@
 #### 🔹 Fork
 - Faça o <strong>fork</strong> do projeto. No lado superior direito, ao clicar no ícone ele criará um repositório do projeto em sua conta pessoal do GitHub. </br>
 
-</br>
+``` 
+https://github.com/anaisateodoro/challenge-02-oracle-one/
+```
+Após ter o repositório "forkado" para sua conta, verifica se a url da página é a do repositório da sua conta.
 
-- Após ter o repositório "forkado" para sua conta, verifica se a url da página é a do repositório da sua conta.
+<br>
 
-<p align="center" >
-     <img width="200" heigth="200" src="https://avatars.githubusercontent.com/u/70113922?v=4">
-</p></br>
-
--  Badge Exclusiva do Desafio 🏆
+#### 🔹 Badge Exclusiva do Desafio 🏆
 
 ---
 

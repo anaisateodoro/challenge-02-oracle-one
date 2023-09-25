@@ -1,7 +1,7 @@
 # Challenge ONE | Java | Back-end | Conversor de Moeda
 
 <p align="center" >
-     <img width="200" heigth="200" src="https://avatars.githubusercontent.com/u/70113922?v=4">
+     <img width="600" heigth="600" src="https://github.com/anaisateodoro/challenge-02-oracle-one/assets/70113922/48fcbeaa-344f-4119-bdfa-1bc71f7c6897)">
 </p></br>
 
 ---
